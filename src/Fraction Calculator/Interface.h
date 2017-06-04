@@ -10,5 +10,5 @@ public:
 	static void fractions();
 };
 
-#endif // !1
+#endif
 
