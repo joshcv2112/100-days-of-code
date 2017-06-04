@@ -8,6 +8,7 @@ public:
 	static int makeSelection();
 	static void wholeNumbers();
 	static void fractions();
+	static double calculate(double, double, char);
 };
 
 #endif
