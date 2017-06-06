@@ -12,3 +12,8 @@
 **Today's Progress**: Created wholeNumbers() function, is now ready to add computational logic.
 
 **Thoughts:** Went well. TODO: Create input validation for wholeNumbers function, to ensure users only enter double and char for appropriate variables.
+
+### Day 2: June 5, 2017
+**Today's Progress**: Began input validation for input of equation. 
+
+**TODO:** Fine tune the input validation so it can handle any inputs.
